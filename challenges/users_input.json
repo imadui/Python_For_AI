@@ -1,0 +1,5 @@
+[
+  {"name": "Imad", "active": true, "skills": ["Python", "AI"]},
+  {"name": "Sara", "active": false, "skills": ["UiPath"]},
+  {"name": "Ali", "active": true, "skills": ["FastAPI", "Python"]}
+]

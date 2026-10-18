@@ -1,0 +1,28 @@
+# Local environment
+.venv/
+venv/
+env/
+
+# Local VS Code workspace file - preserved locally, not published
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Course runtime output
+tmp/
+challenges/active_users_output.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
